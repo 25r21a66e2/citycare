@@ -1,0 +1,9 @@
+{
+  "name": "citycare-full-stack",
+  "version": "1.0.0",
+  "description": "CityCare complaint management web app",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "dev": "node server.js"},
+  "engines": {"node": ">=18"},
+  "dependencies": {"dotenv": "^16.4.7", "express": "^4.21.2", "mongodb": "^6.12.0"}
+}
